@@ -4,9 +4,17 @@ date: 2024-07-19
 draft: false
 ---
 
-# Hi there! I'm Alex, a Software Engineer at Northeastern University 👋
+# Hi there! I'm Aishwarya, a Software Engineer at Northeastern University 👋
 
-I'm a recent graduate from Northeastern University's Khoury College of Computer Sciences, where I earned my Bachelor's degree in Computer Science with a minor in Data Science. During my time at Northeastern, I had the incredible opportunity to participate in the university's renowned co-op program, which allowed me to gain real-world experience working as a software engineer at several top-tier tech companies.
+With a strong educational foundation in computer engineering and my current pursuit of a Master's degree in Information Systems at Northeastern University, I am a motivated graduate student excited to channel my skills and experiences into the dynamic world of technology and innovation. Proficient in various programming languages, including Python, Java, C, and SQL, I possess the technical expertise required to excel in this ever-evolving industry.
+
+My tech journey has been marked by transformative experiences that have shaped me into a versatile and dedicated professional. As a Machine Learning Intern at Foxmula, I actively engaged in a diverse range of machine-learning tasks using Python. This role not only honed my Python skills but also empowered me to implement regression models and create recommendation systems. Employing statistical methods, I developed a knack for effective data analysis, extracting actionable insights that significantly enhanced data-driven decision-making processes, leaving a tangible impact within the team.
+
+My role as a Python Developer was equally transformative. Collaborating closely with a team, I translated software requirements into functional code, engaged in code reviews, and contributed to bug-fixing efforts. Through our collective efforts, we substantially improved project quality by an impressive 20%, underscoring my dedication to delivering top-notch results and fostering a culture of excellence.
+
+Beyond my technical proficiencies, I'm passionate about problem-solving and committed to unraveling complex challenges. My enthusiasm for collaboration and willingness to support others further reinforces my ability to thrive in a team-oriented environment.
+
+I'm genuinely excited about the endless possibilities that the future offers in the tech world. My heart lies in data science, and I'm eager to delve deeper into this ever-evolving field. I'm fully committed to remaining at the forefront of innovation, eagerly embracing new technologies, and actively contributing to the thrilling advancements that lie ahead. Let's connect and embark on this exciting journey together!
 
 ## My Passion for Technology 💻
 

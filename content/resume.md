@@ -4,21 +4,15 @@ date: 2023-07-19
 draft: false
 ---
 
-# John Doe
-Computer Science Student | Northeastern University  
+# Aishwarya Vikas Patil
+Information Systems Student | Northeastern University  
 
 ## Education
-**Bachelor of Science in Computer Science**  
-Northeastern University, Boston, MA  
-Expected Graduation: May 2024  
-GPA: 3.8/4.0
 
-**Relevant Coursework:**
-- Data Structures and Algorithms
-- Object-Oriented Design
-- Web Development
-- Database Management Systems
-- Artificial Intelligence
+### Northeastern University
+**Master of Science (MS) in Information Systems**  
+*Aug 2023 - May 2025*
+GPA 3.53/4
 
 ## Skills
 - Programming Languages: Java, Python, C++, JavaScript
@@ -26,6 +20,24 @@ GPA: 3.8/4.0
 - Databases: MySQL, MongoDB
 - Tools and Frameworks: Git, Docker, AWS, Spring Boot
 - Soft Skills: Problem-solving, Communication, Teamwork, Time Management
+
+## Experience
+
+### Machine Learning Intern
+**Foxmula - The Smart Way**  
+*Jan 2021 - Mar 2021 (3 months)*  
+Engaged in various Machine Learning activities using Python including the implementation of 3 regression models, and 2 recommendation systems. Applied statistical formulas to analyze data resulting in a 12% increase in data-driven insights, optimizing decision-making processes.
+
+### Python Developer
+**Study Circle**  
+*Jan 2020 - Apr 2020 (4 months)*  
+Developed Python projects, translating software requirements into functional code. Collaborated within a team environment, contributing to code reviews and bug-fixing efforts, enhancing project quality by 20%.
+
+## Certifications
+
+### MTA: Introduction to Programming using Python
+**Microsoft**  
+Issued Nov 2020
 
 ## Work Experience
 **Software Engineering Co-op**  
@@ -36,45 +48,40 @@ January 2023 - June 2023
 - Participated in code reviews and contributed to improving the codebase
 - Assisted in the migration of legacy systems to modern technologies
 
-**Teaching Assistant**  
-Northeastern University, Boston, MA  
-September 2022 - December 2022
-- Assisted professors in teaching introductory computer science courses
-- Conducted lab sessions and helped students with programming assignments
-- Held office hours to provide additional support and guidance to students
 
-## Projects
-**Expense Tracker Web App**  
-- Developed a full-stack web application for tracking personal expenses
-- Implemented features such as user authentication, expense categorization, and data visualization
-- Technologies used: React, Node.js, Express, MongoDB
 
-**AI Chatbot**
-- Built a chatbot using natural language processing techniques and deep learning models
-- Trained the model on a large dataset of conversational data
-- Integrated the chatbot with a web interface for easy user interaction
-- Technologies used: Python, TensorFlow, Flask
+## Project Experience
 
-## Leadership and Activities
-**Vice President, Computer Science Club**  
-Northeastern University  
-September 2021 - Present
-- Organize hackathons, workshops, and coding competitions for the university community
-- Collaborate with industry partners to host tech talks and networking events
+### Airline Reservation System
+**Boston, MA**  
+*Northeastern University (Mar 2024 - Apr 2024)*  
+- Engineered an airline reservation database with Azure Data Studio, deployed via Docker.
+- Designed and optimized schema, stored procedures, UDFs, and triggers to enhance performance.
+- Implemented robust data encryption for security.
+- Leveraged Power BI for comprehensive data visualization.
+- Developed a user interface for seamless database interaction.
 
-**Volunteer, Local Community Center**  
-Boston, MA  
-June 2020 - August 2020
-- Taught basic computer skills to underprivileged children and seniors
-- Assisted in setting up computer labs and maintaining the equipment
+### Boston Utility Data Analysis
+**Boston, MA**  
+*Northeastern University (Nov 2023 - Dec 2023)*  
+- Led a data-driven analysis of Boston's utility consumption, addressing null values and outliers through preprocessing.
+- Utilized visualizations to identify temporal and geographic patterns, highlighting peak consumption in zip code 02119.
+- Employed "Linear Regression" and strategic feature selection, recommending normalization for enhanced model performance over PCA.
 
-## Awards and Certifications
-- Dean's List, Northeastern University (Fall 2021, Spring 2022, Fall 2022)
-- AWS Certified Cloud Practitioner
-- HackerRank Gold Badge in Problem Solving
+### Project Recommendation System
+**Mumbai, India**  
+*University of Mumbai (Dec 2021 - Apr 2022)*  
+- Crafted a Project Recommendation System tailored to student interests and academic backgrounds, featuring an intuitive user interface for seamless, user-friendly interaction.
+- Leveraged advanced machine learning techniques, including hybrid filtering, to integrate content-based and collaborative algorithms, enhancing recommendation accuracy for precise suggestions.
+
+## Extracurricular Activities
+
+### Google Developer Student Club
+**University of Mumbai, Mumbai, India**  
+- Machine learning team member.
 
 ## Contact Information
-- Email: john.doe@example.com
-- Phone: (123) 456-7890
-- LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
-- GitHub: [github.com/johndoe](https://github.com/johndoe)
+- Email: patil.aishwar@northeastern.edu
+- Phone: (857) 757-0389
+- LinkedIn: [https://www.linkedin.com/in/aishwarya-patil16/](https://www.linkedin.com/in/aishwarya-patil16/)
+- GitHub: [https://github.com/aishwarya4114](https://github.com/aishwarya4114)
